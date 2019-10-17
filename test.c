@@ -16,6 +16,12 @@ public class Calculator{
         {
 		return x *y;
 	}
+         int log(int x,int y)
+       
+        {
+          return log
+}
+      
 
 
 	}
